@@ -13,22 +13,22 @@ Participating in the 11DaysOfCoding Challenge allowed me to maintain small yet e
 # links
  [https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279]
 
-https://www.codingninjas.com/studio/problems/second-largest-element-in-the-array_873375
+[https://www.codingninjas.com/studio/problems/second-largest-element-in-the-array_873375]
 
-https://leetcode.com/problems/maximum-subarray/
+[https://leetcode.com/problems/maximum-subarray/]
 
-https://leetcode.com/problems/contains-duplicate/
+[https://leetcode.com/problems/contains-duplicate/]
 
-https://www.geeksforgeeks.org/chocolate-distribution-problem/
+[https://www.geeksforgeeks.org/chocolate-distribution-problem/]
 
-https://leetcode.com/problems/search-in-rotated-sorted-array/
+[https://leetcode.com/problems/search-in-rotated-sorted-array/]
 
-https://leetcode.com/problems/next-permutation/
+[https://leetcode.com/problems/next-permutation/]
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/]
 
-https://leetcode.com/problems/kth-largest-element-in-an-array/
+[https://leetcode.com/problems/kth-largest-element-in-an-array/]
 
-https://www.interviewbit.com/problems/repeat-and-missing-number-array/
+[https://www.interviewbit.com/problems/repeat-and-missing-number-array/]
 
-https://leetcode.com/problems/trapping-rain-water/
+[https://leetcode.com/problems/trapping-rain-water/]
